@@ -7,7 +7,7 @@ _Full-stack Developer at [The Caarya Experience](https://www.linkedin.com/compan
 I am an enthused Javascript and Java developer who loves trying new things and exploring new tech. Currently living in Varanasi, India.
 
 #### What am I up to?
-- I'm currently working on Blockchain development using Ethereum Blockchain ans Web3.js
+- I'm currently working on Blockchain development using Ethereum Blockchain and Web3.js
 - I'm also trying my hand at competitve programming!
 
 #### My Stack
