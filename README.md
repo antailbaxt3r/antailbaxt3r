@@ -8,7 +8,7 @@ I am an enthused Javascript and Java developer who loves trying new things and e
 
 #### What am I up to?
 - I'm currently working on Blockchain development using Ethereum Blockchain and Web3.js
-- I'm also trying my hand at competitve programming!
+- I'm also working on cyber-security and penetration-testing and participating in a lot of CTF (Capture The Flag) competitions!
 
 #### My Stack
 
