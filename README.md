@@ -1,7 +1,7 @@
 ## Hey there! Arjun here! 
 
-_Computer Science Junior at [BITS Pilani K. K. Birla Goa Campus](https://www.bits-pilani.ac.in/goa/)_ <br>
-_Full-stack Developer at [The Caarya Experience](https://www.linkedin.com/company/caarya/)_
+_Computer Science Senior at [BITS Pilani K. K. Birla Goa Campus](https://www.bits-pilani.ac.in/goa/)_ <br>
+_Software Development Engineer at [Microsoft, India](https://www.microsoft.com/en-in)_
 
 #### Who am I?
 I am an enthused Javascript and Java developer who loves trying new things and exploring new tech. Currently living in Varanasi, India.
